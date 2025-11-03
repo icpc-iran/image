@@ -1,11 +1,9 @@
-MAIN AUTHORS (with push rights on GIT repository)
+MAIN AUTHORS (in chronological order)
 
 Farzad Abdolhosseini <farzad.abdolhosseini@gmail.com>
-Mehran Kholdi <kholdi.mehran@gmail.com>
-Mohammad Razeghi <razeghi71@gmail.com>
 Hamid Zarrabi-Zadeh <zarrabi@sharif.edu>
-Seyed Sajad Kahani <sska1377@gmail.com>
-
-OTHER CONTRIBUTORS
-
+Mohammad Razeghi <razeghi71@gmail.com>
+Mehran Kholdi <kholdi.mehran@gmail.com>
 Kian Mirjalali <mirjalali@gmail.com>
+Shervin Khastoo <shervin@shervin.org>
+Seyed Sajad Kahani <sska1377@gmail.com>

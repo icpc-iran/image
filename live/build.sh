@@ -1,7 +1,7 @@
 #!/bin/sh
 
-YEAR='2018'
-VERSION='1.4'
+YEAR='2023'
+VERSION='1.5'
 
 apt-get install -y squashfs-tools xorriso isolinux syslinux-utils sudo rsync
 mkdir mnt

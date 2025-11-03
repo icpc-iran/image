@@ -1,4 +1,4 @@
-ICPC Regional (Tehran Site) Contest Image Builder
+ICPC Asia Tehran Regional Contest Image Builder
 =====================================================
 
 The Contest Image Builder contains a set of bash scripts used to build
@@ -16,7 +16,7 @@ For an isolated image building process:
 Build Live Image Without Docker
 ------------------------------
 
-(if you think people are overusing docker and sacrifcing performance for the sake of simplicity in the development and deployment, OK, but for this specific project, it mounts some folders in *your computer* and it seems that your libraries will be added to built image. also, deleting cache folders that caused by a failed build may (in case of not unmounting) causes to temporal damages (that hopefully can be fixed by restarting) to your computer. so, build using docker)
+(if you think people are overusing docker and sacrificing performance for the sake of simplicity in the development and deployment, OK, but for this specific project, it mounts some folders in *your computer* and it seems that your libraries will be added to built image. also, deleting cache folders that caused by a failed build may (in case of not unmounting) causes to temporal damages (that hopefully can be fixed by restarting) to your computer. so, build using docker)
 
 To build a live version of the ICPC contest image,
 put ``ubuntu-16.04.3-desktop-amd64.iso`` in the ``live``

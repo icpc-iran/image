@@ -1,7 +1,7 @@
 #!/bin/bash
 
-# Bash script for building the ACM ICPC contest image
-# Version: 1.4
+# Bash script for building the ICPC Asia Tehran regional contest image
+# Version: 1.5
 
 set -xe
 
@@ -15,7 +15,7 @@ else
 fi
 
 
-# ----- Initilization -----
+# ----- Initialization -----
 
 cat << EOF >/etc/apt/sources.list
 deb http://archive.ubuntu.com/ubuntu/ bionic main restricted universe
@@ -274,4 +274,3 @@ xvfb-run gsettings set org.gnome.desktop.background picture-options "scaled"
 xvfb-run gsettings set org.gnome.desktop.background picture-uri "file:///opt/wallpaper.png"
 
 echo "Done!"
-
